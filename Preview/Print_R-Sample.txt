@@ -1,0 +1,245 @@
+Array
+(
+    [Eastern Conference] => Array
+        (
+            [Atlantic Division] => Array
+                (
+                    [Philadelphia 76ers] => Array
+                        (
+                            [0] => 20
+                            [1] => 8
+                            [2] => images\PHI.svg
+                        )
+
+                    [Boston Celtics] => Array
+                        (
+                            [0] => 17
+                            [1] => 7
+                            [2] => images\BOS.svg
+                        )
+
+                    [Toronto Raptors] => Array
+                        (
+                            [0] => 18
+                            [1] => 8
+                            [2] => images\TOR.svg
+                        )
+
+                    [Brooklyn Nets] => Array
+                        (
+                            [0] => 14
+                            [1] => 12
+                            [2] => images\BKN.svg
+                        )
+
+                    [New York Knicks] => Array
+                        (
+                            [0] => 6
+                            [1] => 21
+                            [2] => images\NYK.svg
+                        )
+
+                )
+
+            [Central Division] => Array
+                (
+                    [Milwaukee Bucks] => Array
+                        (
+                            [0] => 17
+                            [1] => 7
+                            [2] => images\MIL.svg
+                        )
+
+                    [Indiana Pacers] => Array
+                        (
+                            [0] => 18
+                            [1] => 9
+                            [2] => images\IND.svg
+                        )
+
+                    [Detroit Pistons] => Array
+                        (
+                            [0] => 11
+                            [1] => 16
+                            [2] => images\DET.svg
+                        )
+
+                    [Chicago Bulls] => Array
+                        (
+                            [0] => 10
+                            [1] => 19
+                            [2] => images\CHI.svg
+                        )
+
+                    [Cleveland Cavaliers] => Array
+                        (
+                            [0] => 6
+                            [1] => 21
+                            [2] => images\CLE.svg
+                        )
+
+                )
+
+            [Southeast Division] => Array
+                (
+                    [Miami Heat] => Array
+                        (
+                            [0] => 19
+                            [1] => 8
+                            [2] => images\MIA.svg
+                        )
+
+                    [Orlando Magic] => Array
+                        (
+                            [0] => 12
+                            [1] => 14
+                            [2] => images\ORL.svg
+                        )
+
+                    [Charlotte Hornets] => Array
+                        (
+                            [0] => 12
+                            [1] => 17
+                            [2] => images\CHA.svg
+                        )
+
+                    [Washington Wizards] => Array
+                        (
+                            [0] => 8
+                            [1] => 17
+                            [2] => images\WAS.svg
+                        )
+
+                    [Atlanta Hawks] => Array
+                        (
+                            [0] => 6
+                            [1] => 21
+                            [2] => images\ATL.svg
+                        )
+
+                )
+
+        )
+
+    [Western Conference] => Array
+        (
+            [Northwest Division] => Array
+                (
+                    [Denver Nuggets] => Array
+                        (
+                            [0] => 17
+                            [1] => 8
+                            [2] => images\DEN.svg
+                        )
+
+                    [Utah Jazz] => Array
+                        (
+                            [0] => 15
+                            [1] => 11
+                            [2] => images\UTA.svg
+                        )
+
+                    [Olklahoma City Thunder] => Array
+                        (
+                            [0] => 12
+                            [1] => 14
+                            [2] => images\OKC.svg
+                        )
+
+                    [Minnesota Timberwolves] => Array
+                        (
+                            [0] => 10
+                            [1] => 15
+                            [2] => images\MIN.svg
+                        )
+
+                    [Portland Trail Blazers] => Array
+                        (
+                            [0] => 10
+                            [1] => 16
+                            [2] => images\POR.svg
+                        )
+
+                )
+
+            [Pacific Division] => Array
+                (
+                    [Los Angeles Lakers] => Array
+                        (
+                            [0] => 24
+                            [1] => 3
+                            [2] => images\LAL.svg
+                        )
+
+                    [LA Clippers] => Array
+                        (
+                            [0] => 20
+                            [1] => 8
+                            [2] => images\LAC.svg
+                        )
+
+                    [Sacramento Kings] => Array
+                        (
+                            [0] => 12
+                            [1] => 14
+                            [2] => images\SAC.svg
+                        )
+
+                    [Phoenix Suns] => Array
+                        (
+                            [0] => 11
+                            [1] => 14
+                            [2] => images\PHX.svg
+                        )
+
+                    [Golden State Warriors] => Array
+                        (
+                            [0] => 5
+                            [1] => 23
+                            [2] => images\GSW.svg
+                        )
+
+                )
+
+            [Southwest Division] => Array
+                (
+                    [Dallas Mavericks] => Array
+                        (
+                            [0] => 18
+                            [1] => 8
+                            [2] => images\DAL.svg
+                        )
+
+                    [Houston Rockets] => Array
+                        (
+                            [0] => 18
+                            [1] => 9
+                            [2] => images\HOU.svg
+                        )
+
+                    [San Antonio Spurs] => Array
+                        (
+                            [0] => 10
+                            [1] => 16
+                            [2] => images\SAS.svg
+                        )
+
+                    [Memphis Grizzlies] => Array
+                        (
+                            [0] => 10
+                            [1] => 17
+                            [2] => images\MEM.svg
+                        )
+
+                    [New Orleans Pelicans] => Array
+                        (
+                            [0] => 65
+                            [1] => 21
+                            [2] => images\NOP.svg
+                        )
+
+                )
+
+        )
+
+)

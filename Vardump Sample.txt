@@ -1,0 +1,296 @@
+array(2) {
+  ["Eastern Conference"]=>
+  array(3) {
+    ["Atlantic Division"]=>
+    array(5) {
+      ["Philadelphia 76ers"]=>
+      array(3) {
+        [0]=>
+        int(20)
+        [1]=>
+        int(8)
+        [2]=>
+        string(14) "images\PHI.svg"
+      }
+      ["Boston Celtics"]=>
+      array(3) {
+        [0]=>
+        int(17)
+        [1]=>
+        int(7)
+        [2]=>
+        string(14) "images\BOS.svg"
+      }
+      ["Toronto Raptors"]=>
+      array(3) {
+        [0]=>
+        int(18)
+        [1]=>
+        int(8)
+        [2]=>
+        string(14) "images\TOR.svg"
+      }
+      ["Brooklyn Nets"]=>
+      array(3) {
+        [0]=>
+        int(14)
+        [1]=>
+        int(12)
+        [2]=>
+        string(14) "images\BKN.svg"
+      }
+      ["New York Knicks"]=>
+      array(3) {
+        [0]=>
+        int(6)
+        [1]=>
+        int(21)
+        [2]=>
+        string(14) "images\NYK.svg"
+      }
+    }
+    ["Central Division"]=>
+    array(5) {
+      ["Milwaukee Bucks"]=>
+      array(3) {
+        [0]=>
+        int(17)
+        [1]=>
+        int(7)
+        [2]=>
+        string(14) "images\MIL.svg"
+      }
+      ["Indiana Pacers"]=>
+      array(3) {
+        [0]=>
+        int(18)
+        [1]=>
+        int(9)
+        [2]=>
+        string(14) "images\IND.svg"
+      }
+      ["Detroit Pistons"]=>
+      array(3) {
+        [0]=>
+        int(11)
+        [1]=>
+        int(16)
+        [2]=>
+        string(14) "images\DET.svg"
+      }
+      ["Chicago Bulls"]=>
+      array(3) {
+        [0]=>
+        int(10)
+        [1]=>
+        int(19)
+        [2]=>
+        string(14) "images\CHI.svg"
+      }
+      ["Cleveland Cavaliers"]=>
+      array(3) {
+        [0]=>
+        int(6)
+        [1]=>
+        int(21)
+        [2]=>
+        string(14) "images\CLE.svg"
+      }
+    }
+    ["Southeast Division"]=>
+    array(5) {
+      ["Miami Heat"]=>
+      array(3) {
+        [0]=>
+        int(19)
+        [1]=>
+        int(8)
+        [2]=>
+        string(14) "images\MIA.svg"
+      }
+      ["Orlando Magic"]=>
+      array(3) {
+        [0]=>
+        int(12)
+        [1]=>
+        int(14)
+        [2]=>
+        string(14) "images\ORL.svg"
+      }
+      ["Charlotte Hornets"]=>
+      array(3) {
+        [0]=>
+        int(12)
+        [1]=>
+        int(17)
+        [2]=>
+        string(14) "images\CHA.svg"
+      }
+      ["Washington Wizards"]=>
+      array(3) {
+        [0]=>
+        int(8)
+        [1]=>
+        int(17)
+        [2]=>
+        string(14) "images\WAS.svg"
+      }
+      ["Atlanta Hawks"]=>
+      array(3) {
+        [0]=>
+        int(6)
+        [1]=>
+        int(21)
+        [2]=>
+        string(14) "images\ATL.svg"
+      }
+    }
+  }
+  ["Western Conference"]=>
+  array(3) {
+    ["Northwest Division"]=>
+    array(5) {
+      ["Denver Nuggets"]=>
+      array(3) {
+        [0]=>
+        int(17)
+        [1]=>
+        int(8)
+        [2]=>
+        string(14) "images\DEN.svg"
+      }
+      ["Utah Jazz"]=>
+      array(3) {
+        [0]=>
+        int(15)
+        [1]=>
+        int(11)
+        [2]=>
+        string(14) "images\UTA.svg"
+      }
+      ["Olklahoma City Thunder"]=>
+      array(3) {
+        [0]=>
+        int(12)
+        [1]=>
+        int(14)
+        [2]=>
+        string(14) "images\OKC.svg"
+      }
+      ["Minnesota Timberwolves"]=>
+      array(3) {
+        [0]=>
+        int(10)
+        [1]=>
+        int(15)
+        [2]=>
+        string(14) "images\MIN.svg"
+      }
+      ["Portland Trail Blazers"]=>
+      array(3) {
+        [0]=>
+        int(10)
+        [1]=>
+        int(16)
+        [2]=>
+        string(14) "images\POR.svg"
+      }
+    }
+    ["Pacific Division"]=>
+    array(5) {
+      ["Los Angeles Lakers"]=>
+      array(3) {
+        [0]=>
+        int(24)
+        [1]=>
+        int(3)
+        [2]=>
+        string(14) "images\LAL.svg"
+      }
+      ["LA Clippers"]=>
+      array(3) {
+        [0]=>
+        int(20)
+        [1]=>
+        int(8)
+        [2]=>
+        string(14) "images\LAC.svg"
+      }
+      ["Sacramento Kings"]=>
+      array(3) {
+        [0]=>
+        int(12)
+        [1]=>
+        int(14)
+        [2]=>
+        string(14) "images\SAC.svg"
+      }
+      ["Phoenix Suns"]=>
+      array(3) {
+        [0]=>
+        int(11)
+        [1]=>
+        int(14)
+        [2]=>
+        string(14) "images\PHX.svg"
+      }
+      ["Golden State Warriors"]=>
+      array(3) {
+        [0]=>
+        int(5)
+        [1]=>
+        int(23)
+        [2]=>
+        string(14) "images\GSW.svg"
+      }
+    }
+    ["Southwest Division"]=>
+    array(5) {
+      ["Dallas Mavericks"]=>
+      array(3) {
+        [0]=>
+        int(18)
+        [1]=>
+        int(8)
+        [2]=>
+        string(14) "images\DAL.svg"
+      }
+      ["Houston Rockets"]=>
+      array(3) {
+        [0]=>
+        int(18)
+        [1]=>
+        int(9)
+        [2]=>
+        string(14) "images\HOU.svg"
+      }
+      ["San Antonio Spurs"]=>
+      array(3) {
+        [0]=>
+        int(10)
+        [1]=>
+        int(16)
+        [2]=>
+        string(14) "images\SAS.svg"
+      }
+      ["Memphis Grizzlies"]=>
+      array(3) {
+        [0]=>
+        int(10)
+        [1]=>
+        int(17)
+        [2]=>
+        string(14) "images\MEM.svg"
+      }
+      ["New Orleans Pelicans"]=>
+      array(3) {
+        [0]=>
+        int(65)
+        [1]=>
+        int(21)
+        [2]=>
+        string(14) "images\NOP.svg"
+      }
+    }
+  }
+}

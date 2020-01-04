@@ -1,0 +1,40 @@
+// print "<pre>";
+        // foreach ($teams as $key => $Coast) {
+        //     echo "Coast: $key; \n";
+        //     foreach ($Coast as $key => $Division) {
+        //         echo "Division: $key; \n";
+        //         foreach ($Division as $key => $Team) {
+        //             echo "Team: $key; \n";
+        //             foreach ($Team as $key => $Score) {
+        //                 if ($key == 0) {
+        //                     echo "Wins: $Score; \n";
+        //                 } elseif ($key == 1) {
+        //                     echo "Lose: $Score; \n";
+        //                 } else {
+        //                     echo "Image: $Score; \n";
+        //                 }
+        //             }
+        //         }
+        //     }
+        // }
+        // print "</pre>";
+        // foreach($teams as $child) {
+        //     echo $child . "\n";
+        //  }
+
+        // foreach ($teams as $key => $Coast) {
+                //     $keys = array_keys($teams);
+                //     echo "$keys[0]";
+                //     if ($key == "Eastern Conference")
+                //         echo "$key";
+                // }
+
+
+                <!-- <table>
+    <?php foreach($array as $key=>$value): ?>
+    <tr>
+        <td><?php echo $key; ?></td>
+    </tr>
+    <?php endforeach; ?> -->
+
+    

@@ -1,0 +1,166 @@
+@font-face {
+  font-family: "kaneda_gothic_boldbold";
+  src: url("kanedagothic-bold-webfont.woff2") format("woff2"),
+    url("kanedagothic-bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "kaneda_gothic_boldbold";
+  src: url("http://localhost/FloreseLab3/fonts/kanedagothic-bold-webfont.woff2");
+  src: url("http://localhost/FloreseLab3/fonts/kanedagothic-bold-webfont.woff")
+    format("woff");
+}
+
+.row {
+    text-align: left;
+
+}
+
+h1 {
+  font-family: "kaneda_gothic_boldbold", Arial, sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 52;
+  color:white;
+  margin-top: 3em;
+  line-height : 100%; 
+    margin-top : 1cm; 
+    display : block; 
+}
+table th td tr {
+  border: 1px solid black;
+  padding: 1px;
+  padding: 0 !important;
+  margin: 0 !important;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  opacity: 1.0 !important;
+}
+.ind{
+    /* background-color: white; */
+    margin-left: 1em;
+    /* opacity: 0.7; */
+    background: rgba(255, 255, 255, 0.507); /* newer browsers */
+}
+.ind>table{
+    background: white;
+}
+td {
+    /* max-width: 100px !important; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#bold{
+    font-weight: bold;
+}
+.table-condensed>thead>tr>th, .table-condensed>tbody>tr>th, .table-condensed>tfoot>tr>th, .table-condensed>thead>tr>td, .table-condensed>tbody>tr>td, .table-condensed>tfoot>tr>td {
+    padding: 1px;
+    }
+
+table {
+    background-color: white;
+    
+    max-width: 600px;
+}
+img{
+    max-width: 30px;
+    max-height: 30px;
+}
+th {
+  text-align: left;
+  font-family: "kaneda_gothic_boldbold", Arial, sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 42;
+  text-transform: capitalize;
+}
+td {
+  text-align: center;
+  padding: 15px;
+  
+}
+.rhs {
+    text-align: center;
+  }
+.lhs {
+  background-color: darkslategray;
+  font-weight: bold;
+  color: white;
+}
+.lhs:hover {
+  background-color: rgb(112, 182, 182);
+}
+.ths {
+  background-color: darkslategray;
+  font-weight: bold;
+  color: white;
+}
+.ths:hover {
+  background-color: rgb(112, 182, 182);
+}
+/* .top {
+  
+} */
+.title {
+    text-align: left;
+    font-family: "kaneda_gothic_boldbold", Arial, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 42px;
+    text-transform: uppercase;
+}
+html { 
+    background: url(images/bg.jpg) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+    }
+.cont {
+  background-color: whitesmoke;
+  background-image: url("box.jpg");
+}
+.cont:hover {
+  background-image: none;
+  height: 50%;
+  z-index: 555555 !important;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  background-color: gold;
+  -ms-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.name {
+  background-color: darkslategray;
+  color: white;
+}
+.name:hover {
+  background-color: rgb(112, 182, 182);
+}
+.lab {
+  background-color: darkslategray;
+  color: white;
+}
+.lab:hover {
+  background-color: rgb(112, 182, 182);
+}
+.over {
+  border: 1px solid black;
+}
+
+body {
+  background-image: url("bg.jpg");
+  
+}
+#dark{
+    color:rgb(146, 143, 143);
+}
